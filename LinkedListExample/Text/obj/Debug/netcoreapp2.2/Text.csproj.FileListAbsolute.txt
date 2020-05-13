@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\bin\Debug\netcoreapp2.2\Text.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\bin\Debug\netcoreapp2.2\Text.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\bin\Debug\netcoreapp2.2\Text.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\bin\Debug\netcoreapp2.2\Text.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\bin\Debug\netcoreapp2.2\Text.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\obj\Debug\netcoreapp2.2\Text.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\obj\Debug\netcoreapp2.2\Text.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\obj\Debug\netcoreapp2.2\Text.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\obj\Debug\netcoreapp2.2\Text.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\obj\Debug\netcoreapp2.2\Text.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\Text\obj\Debug\netcoreapp2.2\Text.pdb

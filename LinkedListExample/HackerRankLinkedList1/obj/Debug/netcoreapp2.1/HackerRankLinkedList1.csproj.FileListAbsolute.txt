@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\bin\Debug\netcoreapp2.1\HackerRankLinkedList1.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\bin\Debug\netcoreapp2.1\HackerRankLinkedList1.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\bin\Debug\netcoreapp2.1\HackerRankLinkedList1.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\bin\Debug\netcoreapp2.1\HackerRankLinkedList1.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\bin\Debug\netcoreapp2.1\HackerRankLinkedList1.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Algorithms\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Algorithms\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Algorithms\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Algorithms\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\Algorithms\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\Algorithms\LinkedListExample\LinkedListExample\HackerRankLinkedList1\obj\Debug\netcoreapp2.1\HackerRankLinkedList1.pdb
